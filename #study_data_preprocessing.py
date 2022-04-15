@@ -50,3 +50,6 @@ plt.scatter(train_scaled[indexes,0],train_scaled[indexes,1],marker="D")
 plt.xlabel("Length")
 plt.ylabel("Weight")
 plt.show()
+
+
+#git commit test 1:53 pm 
